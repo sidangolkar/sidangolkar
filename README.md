@@ -4,10 +4,10 @@
 <h3 align="center">Passionate about Embedded System Design.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.redsharknews.com/hubfs/ARM%20Processor.jpg">
 
-- 👨‍🎓Undergraduate Student at KLS Gogte Institute of Technology
-- 🛠🔨 I’m currently working on **LPC2148-Device Drivers**
-- 🥇 I have Worked on : **8051, LPC2148, Arduino UNO, NANO , NodeMcu**
-- 💻 Tools and Platforms used : **Ubuntu 20.04, STMcubeIDE, Keil uVision, Cadence Virtuoso, Xilinx Vivado, Kicad, Ltspice, Multisim, Matlab.**
+- 👨‍**🎓Undergraduate Student at KLS Gogte Institute of Technology**
+- 🛠🔨 **I’m currently working on LPC2148-Device Drivers**
+- 🥇 **I have Worked on : 8051, LPC2148, Arduino UNO, NANO , NodeMcu**
+- 💻 **Tools and Platforms used : Ubuntu 20.04, STMcubeIDE, Keil uVision, Cadence Virtuoso, Xilinx Vivado, Kicad, Ltspice, Multisim, Matlab.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
