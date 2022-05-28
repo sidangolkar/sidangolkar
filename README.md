@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQE0bqXgvF_igQ/profile-displaybackgroundimage-shrink_350_1400/0/1624783634932?e=1658966400&v=beta&t=Z_jgo96byE33ZVwwrjRNpyaH1YpzBuchaevAqTk1dwc)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQE0bqXgvF_igQ/profile-displaybackgroundimage-shrink_350_1400/0/1624783634932?e=1658966400&v=beta&t=Z_jgo96byE33ZVwwrjRNpyaH1YpzBuchaevAqTk1dwc)
 
 <h1 align="center">Hi 👋, I'm Siddhant Angolkar</h1>
 <h3 align="center">Passionate about Embedded System Design.</h3>
