@@ -5,9 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://www.redsharknews.com/hubfs/ARM%20Processor.jpg">
 
 - 👨‍**🎓Undergraduate Student at KLS Gogte Institute of Technology**
-- ⌨Programming : C, C++, Embedded C, Verilog
-- 🛠🔨 **I’m currently working on LPC2148-Device Drivers**
-- 🥇 I have Worked on : 8051, LPC2148, Arduino UNO, NANO , NodeMcu
+- ⌨Programming : C, C++, Embedded C, Bare Metal device drivers. 
+- 🥇 I have Worked on : STM32, 8051, LPC2148, Arduino UNO, NANO , NodeMcu, 
 - Bus Protocols : UART, I2C
 - 💻 **Tools and Platforms used : Ubuntu 20.04, Keil uVision, Cadence Virtuoso, Xilinx Vivado, Kicad, Ltspice, Multisim, Matlab.**
 
